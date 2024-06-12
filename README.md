@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on making a library (by myself) to do calculations in a 3d space 
+- 🔭 I’m currently working on not much
 - 🌱 I’m currently learning python
 - 📫 How to reach me: Discord: @chargou
 - 😄 Pronouns: he/him
